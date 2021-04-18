@@ -1,0 +1,17 @@
+opencv-python~=4.5.1.48
+numpy~=1.19.5
+pytesseract~=0.3.7
+Pillow~=8.1.2
+pywin32~=300
+gdown~=3.11.0
+PyYAML~=5.3.1
+requests~=2.25.1
+vietocr~=0.3.5
+torch~=1.8.1
+lmdb~=1.0.0
+tqdm~=4.59.0
+torchvision~=0.9.1
+einops~=0.2.0
+matplotlib~=3.3.3
+imgaug~=0.4.0
+six~=1.15.0
