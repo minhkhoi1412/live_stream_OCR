@@ -56,7 +56,7 @@ Source: pyimagesearch
 For **Window** users: Download the installation file here https://github.com/UB-Mannheim/tesseract/wiki (remember to choose the 32bit and 64 bit version that suits your window).
 ![tesseract_install_window.png](tesseract_install_window.png)
 
-After the installation is complete, you can check whether the installation was successful by typing the command:
+After the installation is completed, you can check whether the installation was successful by typing the command:
 
 `tesseract -v`
 
