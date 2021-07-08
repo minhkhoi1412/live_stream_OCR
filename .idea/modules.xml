@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../MSE/DIP/DIP projects/.idea/DIP projects.iml" filepath="$PROJECT_DIR$/../../MSE/DIP/DIP projects/.idea/DIP projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/live_stream_OCR.iml" filepath="$PROJECT_DIR$/.idea/live_stream_OCR.iml" />
     </modules>
   </component>

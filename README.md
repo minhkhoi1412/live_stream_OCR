@@ -99,6 +99,10 @@ After that, follow the steps as shown below and enjoy the results:
 
 ![instruction.gif](instruction.gif)
 
+Clearer demo captured on my phone:
+
+![demo.gif](demo.gif)
+
 ## Latest Version of README
 
 For the latest online version of the README.md see:
